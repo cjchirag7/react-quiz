@@ -32,30 +32,4 @@ c1 change
 
 This is a online commit to make HEAD move ahead
 
-arjbgwrjgbawrgbpiubgea
-diusbdvis
-srn
-zdn
-t
-jz
-hethkJBvodtnhpisdv
-sr
-dh
-zdtjset
-
-amend example
-
-this is our new feature!!!!
-change
-
-third one
-
-x = 2
-
-commit on chirag's repo
-
-change after conflict
-
-a = ridhish
-
-change part 2
+session end!!!!
